@@ -1,6 +1,5 @@
 # Tip Calculator
 
-<br><br>
 ### Phone View
 ![tipcalc-phone](https://github.com/MetinKb/react-tip-calculator/assets/114526516/10e4ac64-e8a4-48c2-949b-575bb7032c64)
 
